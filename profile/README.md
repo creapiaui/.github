@@ -1,6 +1,6 @@
-# CREA-PI
+# CREA Piauí
 
-👷‍♀️👷‍♂️ **Conselho Regional de Engenharia e Agronomia do Piauí**
+👷‍♀️👷‍♂️ **Conselho Regional de Engenharia e Agronomia do Piauí (CREA-PI)**
 
 O CREA-PI é a autarquia federal responsável pela fiscalização, orientação e valorização do exercício profissional das áreas de Engenharia, Agronomia e Geociências no estado do Piauí.
 
