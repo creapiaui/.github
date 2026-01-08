@@ -37,4 +37,3 @@ Este espaço no GitHub é utilizado para:
 
 - 🌍 Site: https://www.crea-pi.org.br
 - 📄 Portal da Transparência: https://transparencia.crea-pi.org.br
-- 📧 Contato: desenvolvimento@crea-pi.org.br
